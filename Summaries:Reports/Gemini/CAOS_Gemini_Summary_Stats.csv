@@ -1,0 +1,20 @@
+Metric,Value
+Number of Documents,40.0
+Average Unique Words,64.75
+Median Unique Words,74.0
+Min Unique Words,2.0
+Max Unique Words,180.0
+Average Total Words,111.525
+Median Total Words,117.5
+Min Total Words,2.0
+Max Total Words,308.0
+Average Sentences,13.5
+Median Sentences,13.0
+Min Sentences,1.0
+Max Sentences,38.0
+Average Sentiment,0.2684275
+Median Sentiment,0.67885
+Min Sentiment,-0.9976
+Max Sentiment,0.9947
+Positive Sentiment Count,23.0
+Negative Sentiment Count,17.0
