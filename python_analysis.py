@@ -173,9 +173,9 @@ def main():
         for directory in exam_dirs:
             if analyze_exam_directory(directory):
                 successful_analyses += 1
-        print(f"\nAnalysis complete! Successfully analyzed {successful_analyses} out of {len(exam_dirs)} directories.")
+        print("Analysis is Complete")
     except Exception as e:
-        print(f"An error occurred: {str(e)}")
+        print("An Error has occurred")
         raise e
 
 if __name__ == "__main__":
